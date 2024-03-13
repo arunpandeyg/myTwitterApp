@@ -1,0 +1,7 @@
+.hideScrollBar::-webkit-scrollbar {
+    display: none;
+}
+.pbi{
+    width: 100%;
+    height: 140px;
+}
